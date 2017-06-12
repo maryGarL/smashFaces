@@ -1,0 +1,15 @@
+#juego{
+  display: none;
+}
+.datos input{
+  display: block;
+}
+.image{
+  display: flex;
+justify-content: center;
+align-items: center;
+}
+img{
+  width: 336px;
+    height: 67vh;
+}
